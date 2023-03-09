@@ -1,5 +1,7 @@
-### Hi there 👋
-#### I'm Meenbeese!
+![Banner](https://raw.githubusercontent.com/Iamlooker/Iamlooker/main/my-banner-rounded.png)
+
+### Hi, I am meenbeese! 👋
+#### I am learning Android Development with Kotlin
 
 - 😄 Pronouns: he/him
 
