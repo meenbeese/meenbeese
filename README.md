@@ -1,5 +1,5 @@
 # Meenbeese
-<img src="./my-banner-rounded.png" width="75%">
+<img src="./my-banner-rounded.png" width="66%">
 
 Hi, I am Meenbeese. I am an aspiring developer and student from Canada! 👋 <br>
 Psst... Do you like the banner above? Yes, I do as well. You can just copy it if you want.
@@ -20,8 +20,8 @@ Psst... Do you like the banner above? Yes, I do as well. You can just copy it if
 ## ☎️ Contact Me
 
 - **✉️ Email**: [meenbeese@tutanota.com](meenbeese@tutanota.com)
-- **🗨️ Matrix**: [@foobar:matrix.org](https://matrix.to/#/@foobar:matrix.org) (will setup later)
-- **🐘 Mastodon**: [@foobar@mastodon.social](https://mastodon.social/@foobar) (will setup later)
+- **🗨️ Matrix**: [@ceesaw:matrix.org](https://matrix.to/#/@ceesaw:matrix.org)
+- **🐘 Mastodon**: [@foobar@mastodon.social](https://mastodon.social/@foobar)
 - **🐈‍⬛ GitHub**: [@meenbeese](https://github.com/meenbeese)
 - **🗻 GitLab**: [@meenbeese](https://gitlab.com/meenbeese)
 
