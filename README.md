@@ -19,11 +19,9 @@ Psst... Do you like the banner above? Yes, I do as well. You can just copy it if
 
 ## ☎️ Contact Me
 
-- **✉️ Email**: [meenbeese@tutanota.com](meenbeese@tutanota.com)
-- **🗨️ Matrix**: [@ceesaw:matrix.org](https://matrix.to/#/@ceesaw:matrix.org)
-- **🐘 Mastodon**: [@foobar@mastodon.social](https://mastodon.social/@foobar)
-- **🐈‍⬛ GitHub**: [@meenbeese](https://github.com/meenbeese)
-- **🗻 GitLab**: [@meenbeese](https://gitlab.com/meenbeese)
+[![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:meenbeese@tutanota.com)
+[![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@ceesaw:matrix.org)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781235909776506890)
 
 ## 🟢 Activities
 
