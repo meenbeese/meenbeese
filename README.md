@@ -1,7 +1,8 @@
-# Meenbeese
-<img src="./my-banner-rounded.png" width="66%">
+<img src="./my-banner-rounded.png" width="50%">
 
-Hi, I am Meenbeese. I am an aspiring developer and student from Canada! 👋 <br>
+# Hi, I'm Meenbeese! 👋
+
+I am an aspiring developer and student from Canada with a strong passion for the web! <br>
 Psst... Do you like the banner above? Yes, I do as well. You can just copy it if you want.
 
 ## 💪 Skills
