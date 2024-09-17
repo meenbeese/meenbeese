@@ -1,9 +1,9 @@
 <img src="./my-banner-rounded.png" width="50%">
 
-# Hi, I'm Meenbeese! 👋
+# Hi, I'm Kuzey! 👋
 
 I am an aspiring developer and student from Canada with a strong passion for the web! <br>
-Psst... Do you like the banner above? Yes, I do as well. You can just copy it if you want.
+I am interesting in programming and contributing to new open source projects every day.
 
 ## 💪 Skills
 
@@ -26,7 +26,8 @@ Psst... Do you like the banner above? Yes, I do as well. You can just copy it if
 
 ## 🟢 Activities
 
-Currently, I am working on creating my first Android app using Kotlin/Java. <br>
+Currently, I am working on maintaining my existing Android app and releasing a new one.
+I also will start to work on web development projects after learning the necessary concepts :) <br>
 
 I also many hobbies like reading, and listening to podcasts and walking around <br> 
 the city. Yes, the computer screen can indeed be consuming sometimes :)
