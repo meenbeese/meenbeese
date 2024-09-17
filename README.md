@@ -2,8 +2,7 @@
 
 # Hi, I'm Kuzey! 👋
 
-I am an aspiring developer and student from Canada with a strong passion for the web! <br>
-I am interesting in programming and contributing to new open source projects every day.
+I am a passionate developer and student from Canada with a keen interest in web development and artificial intelligence. I love programming and actively contribute to open source projects every day. I am always eager to learn new technologies and collaborate with others in the tech community.
 
 ## 💪 Skills
 
