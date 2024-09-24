@@ -2,20 +2,11 @@
 
 # Hi, I'm Kuzey! 👋
 
-I am a passionate developer and student from Canada with a keen interest in web development and artificial intelligence. I love programming and actively contribute to open source projects every day. I am always eager to learn new technologies and collaborate with others in the tech community.
+I am a passionate developer and student from Canada with a keen interest in web development and artificial intelligence. I love programming and contributing to open source projects in my free time. I am always eager to learn new technologies and collaborate with others in the ever-growing tech community.
 
 ## 💪 Skills
 
-### 😃 Good knowledge
-
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage) [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS) [![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
-### 🤔 Some knowledge
-
-[![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/en) [![Rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org) [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://www.kotlinlang.org/) [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-
-### 🧐 Planning to learn
-
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![WindiCSS](https://skillicons.dev/icons?i=windicss)](https://www.windicss.org/) [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) [![C#](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java) [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://www.kotlinlang.org/) [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage) [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS) [![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 
 ## ☎️ Contact Me
 
@@ -26,7 +17,7 @@ I am a passionate developer and student from Canada with a keen interest in web 
 ## 🟢 Activities
 
 Currently, I am working on maintaining my existing Android app and releasing a new one.
-I also will start to work on web development projects after learning the necessary concepts :) <br>
+I also am learning AngularJS and practicing new concepts in ReactJS and Tailwind CSS. <br>
 
 I also many hobbies like reading, and listening to podcasts and walking around <br> 
 the city. Yes, the computer screen can indeed be consuming sometimes :)
