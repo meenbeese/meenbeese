@@ -1,6 +1,6 @@
-<img src="./my-banner-rounded.png" width="50%">
+<img src="./header-image.png" width="100%">
 
-# Hi, I'm Kuzey! 👋
+## 📖 About Me
 
 I am a passionate developer and student from Canada with a keen interest in web development and artificial intelligence. I love programming and contributing to open source projects in my free time. I am always eager to learn new technologies and collaborate with others in the ever-growing tech community.
 
