@@ -10,9 +10,9 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java) [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://www.kotlinlang.org/) [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage) [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS) [![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
 
-## ☎️ Contact Me
+## 📥 Contact Me
 
-[![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:meenbeese@tutanota.com)
+[![Proton Mail](https://img.shields.io/badge/ProtonMail-7C5CFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kuzeybilgin@proton.me)
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@ceesaw:matrix.org)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781235909776506890)
 
