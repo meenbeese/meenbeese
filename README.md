@@ -2,6 +2,13 @@
 
 <a href="https://u8views.com/github/meenbeese"><img src="https://u8views.com/api/v1/github/profiles/114044633/views/day-week-month-total-count.svg"></a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meenbeese&show_icons=true&locale=en&repo=convoychat&theme=radical" alt="meenbeese" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenbeese&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="meenbeese" />
+</a>
+
 ## 📖 About Me
 
 I am a passionate developer and student from Canada with a keen interest in web development and artificial intelligence. I love programming and contributing to open source projects in my free time. I am always eager to learn new technologies and collaborate with others in the ever-growing tech community in the hope of improving everyone's lives through advancements in technology.
