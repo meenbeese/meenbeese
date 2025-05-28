@@ -25,7 +25,7 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 ## 🟢 Activities
 
-I am always working on practising my stack and continuing to build and release new fullstack apps every day. I might also work on a small and interesting problem here and there if I think a good enough solution does not exist, and release it for everyone to see and use for themselves. <br>
+I am always working on practising my stack and continuing to build and release new fullstack apps every day. I might also work on a small and interesting problem here and there if I think a good enough solution does not exist, and release it for everyone to use. <br>
 
 I also many hobbies like reading, and listening to podcasts and walking around <br> 
 the city. Yes, the computer screen can indeed be consuming sometimes :)
