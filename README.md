@@ -19,12 +19,10 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org)
-[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Alpine](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev/)
 
 ### Backend
@@ -51,6 +49,8 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 ### Languages
 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://www.kotlinlang.org/)
@@ -65,7 +65,7 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 ## 🟢 Activities
 
-I am always working on practising my stack and continuing to build and release new fullstack apps every day. I might also work on a small and interesting problem here and there if I think a good enough solution does not exist, and release it for everyone to use. <br>
+I am always working on practising my stack and continuing to build and release new fullstack apps every day. I also work on a interesting side projects here and there if I think a good enough solution does not exist, and release it for everyone to use. <br>
 
 I also many hobbies like reading, and listening to podcasts and walking around <br> 
 the city. Yes, the computer screen can indeed be consuming sometimes :)
