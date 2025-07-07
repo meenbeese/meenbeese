@@ -17,45 +17,46 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 ### Frontend
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage)
-[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS)
-[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![Alpine](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev/)
+[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://html.spec.whatwg.org/multipage)
+[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3.org/Style/CSS)
+[![Svelte](https://go-skill-icons.vercel.app/api/icons?i=svelte)](https://svelte.dev)
+[![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://react.dev)
+[![Next](https://go-skill-icons.vercel.app/api/icons?i=next)](https://nextjs.org)
+[![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind)](https://tailwindcss.com/)
+[![Alpine](https://go-skill-icons.vercel.app/api/icons?i=alpinejs)](https://alpinejs.dev/)
 
 ### Backend
 
-[![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://palletsprojects.com/projects/flask)
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![Node](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://go-skill-icons.vercel.app/api/icons?i=express)](https://expressjs.com)
+[![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask)](https://palletsprojects.com/projects/flask)
+[![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma)](https://www.prisma.io)
+[![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)](https://firebase.google.com)
 
 ### DevOps
 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
+[![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://www.docker.com)
+[![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com)
+[![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com)
+[![PowerShell](https://go-skill-icons.vercel.app/api/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
 
 ### Build Tools
 
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev)
-[![Rollup](https://skillicons.dev/icons?i=rollup)](https://rollupjs.org)
-[![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vite.dev)
+[![Rollup](https://go-skill-icons.vercel.app/api/icons?i=rollup)](https://rollupjs.org)
+[![Gradle](https://go-skill-icons.vercel.app/api/icons?i=gradle)](https://gradle.org/)
 
 ### Languages
 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://www.kotlinlang.org/)
-[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
-[![Nim](https://skillicons.dev/icons?i=nim)](https://nim-lang.org)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
+[![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.oracle.com/java)
+[![Kotlin](https://go-skill-icons.vercel.app/api/icons?i=kotlin)](https://www.kotlinlang.org/)
+[![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua)](https://www.lua.org/)
+[![Nim](https://go-skill-icons.vercel.app/api/icons?i=nim)](https://nim-lang.org)
 
 ## 📥 Contact Me
 
