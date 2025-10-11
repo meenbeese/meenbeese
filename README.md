@@ -27,6 +27,7 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 ### Backend
 
+[![Spring](https://go-skill-icons.vercel.app/api/icons?i=spring)](https://spring.io/)
 [![Node](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://go-skill-icons.vercel.app/api/icons?i=express)](https://expressjs.com)
 [![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask)](https://palletsprojects.com/projects/flask)
