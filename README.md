@@ -32,8 +32,14 @@ I am a passionate developer and student from Canada with a keen interest in web 
 [![Express](https://go-skill-icons.vercel.app/api/icons?i=express)](https://expressjs.com)
 [![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask)](https://palletsprojects.com/projects/flask)
 [![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma)](https://www.prisma.io)
 [![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)](https://firebase.google.com)
+
+### Database
+
+[![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)](https://www.mysql.com/)
+[![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongo)](https://www.mongodb.com/)
+[![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma)](https://www.prisma.io)
 
 ### DevOps
 
@@ -47,6 +53,7 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 [![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vite.dev)
 [![Rollup](https://go-skill-icons.vercel.app/api/icons?i=rollup)](https://rollupjs.org)
+[![Turborepo](https://go-skill-icons.vercel.app/api/icons?i=turborepo)](https://turborepo.com/)
 [![Gradle](https://go-skill-icons.vercel.app/api/icons?i=gradle)](https://gradle.org/)
 
 ### Languages
@@ -56,8 +63,8 @@ I am a passionate developer and student from Canada with a keen interest in web 
 [![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
 [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.oracle.com/java)
 [![Kotlin](https://go-skill-icons.vercel.app/api/icons?i=kotlin)](https://www.kotlinlang.org/)
+[![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)](https://www.php.net/)
 [![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua)](https://www.lua.org/)
-[![Nim](https://go-skill-icons.vercel.app/api/icons?i=nim)](https://nim-lang.org)
 
 ## 📥 Contact Me
 
