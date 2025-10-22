@@ -19,9 +19,9 @@ I am a passionate developer and student from Canada with a keen interest in web 
 
 [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://html.spec.whatwg.org/multipage)
 [![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3.org/Style/CSS)
-[![Svelte](https://go-skill-icons.vercel.app/api/icons?i=svelte)](https://svelte.dev)
 [![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://react.dev)
 [![Next](https://go-skill-icons.vercel.app/api/icons?i=next)](https://nextjs.org)
+[![Svelte](https://go-skill-icons.vercel.app/api/icons?i=svelte)](https://svelte.dev)
 [![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind)](https://tailwindcss.com/)
 [![Alpine](https://go-skill-icons.vercel.app/api/icons?i=alpinejs)](https://alpinejs.dev/)
 
