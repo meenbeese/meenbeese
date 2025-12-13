@@ -11,7 +11,7 @@
 
 ## 📖 About Me
 
-I am a passionate developer and student from Canada with a keen interest in web development and artificial intelligence. I love programming and contributing to open source projects in my free time. I am always eager to learn new technologies and collaborate with others in the ever-growing tech community in the hope of improving everyone's lives through advancements in technology.
+I am a passionate developer and student from Canada interested in web development and artificial intelligence. I love programming and contributing to open source projects in my free time. I am always eager to learn new technologies and collaborate with others in the ever-growing tech community in the hope of improving everyone's lives through advancements in technology.
 
 ## 💪 Skills
 
@@ -41,6 +41,13 @@ I am a passionate developer and student from Canada with a keen interest in web 
 [![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongo)](https://www.mongodb.com/)
 [![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma)](https://www.prisma.io)
 
+### Build Tools
+
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vite.dev)
+[![Rollup](https://go-skill-icons.vercel.app/api/icons?i=rollup)](https://rollupjs.org)
+[![Turborepo](https://go-skill-icons.vercel.app/api/icons?i=turborepo)](https://turborepo.com/)
+[![Gradle](https://go-skill-icons.vercel.app/api/icons?i=gradle)](https://gradle.org/)
+
 ### DevOps
 
 [![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://www.docker.com)
@@ -48,13 +55,7 @@ I am a passionate developer and student from Canada with a keen interest in web 
 [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com)
 [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com)
 [![PowerShell](https://go-skill-icons.vercel.app/api/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
-
-### Build Tools
-
-[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vite.dev)
-[![Rollup](https://go-skill-icons.vercel.app/api/icons?i=rollup)](https://rollupjs.org)
-[![Turborepo](https://go-skill-icons.vercel.app/api/icons?i=turborepo)](https://turborepo.com/)
-[![Gradle](https://go-skill-icons.vercel.app/api/icons?i=gradle)](https://gradle.org/)
+[![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 ### Languages
 
