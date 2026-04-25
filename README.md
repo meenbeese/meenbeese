@@ -72,10 +72,3 @@ I am a passionate developer and student from Canada interested in web developmen
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kuzeybilgin@proton.me)
 [![Signal](https://img.shields.io/badge/Signal-3B45FD?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/CnwK7vX25Zkyg13ApVzKwOmU7IKQeyZ2NLS56QK7098yFuJdGN5FnLQ_qH2dHDyA)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781235909776506890)
-
-## 🟢 Activities
-
-I am always working on practising my stack and continuing to build and release new fullstack apps every day. I also work on a interesting side projects here and there if I think a good enough solution does not exist, and release it for everyone to use. <br>
-
-I also many hobbies like reading, and listening to podcasts and walking around <br> 
-the city. Yes, the computer screen can indeed be consuming sometimes :)
