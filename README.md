@@ -2,13 +2,6 @@
 
 <a href="https://u8views.com/github/meenbeese"><img src="https://u8views.com/api/v1/github/profiles/114044633/views/day-week-month-total-count.svg"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meenbeese&show_icons=true&locale=en&repo=convoychat&theme=dark#gh-dark-mode-only" alt="meenbeese" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenbeese&show_icons=true&locale=en&layout=donut&langs_count=6&theme=dark#gh-dark-mode-only" alt="meenbeese" />
-</a>
-
 ## 📖 About Me
 
 I am a passionate developer and student from Canada interested in web development and artificial intelligence. I love programming and contributing to open source projects in my free time. I am always eager to learn new technologies and collaborate with others in the ever-growing tech community in the hope of improving everyone's lives through technology.
@@ -59,13 +52,15 @@ I am a passionate developer and student from Canada interested in web developmen
 
 ### Languages
 
-[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
-[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
 [![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
 [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.oracle.com/java)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
+[![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)](https://www.php.net/)
 [![Kotlin](https://go-skill-icons.vercel.app/api/icons?i=kotlin)](https://www.kotlinlang.org/)
 [![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://rust-lang.org/)
 [![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua)](https://www.lua.org/)
+
 
 ## 📥 Contact Me
 
