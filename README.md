@@ -50,18 +50,6 @@ I am a passionate developer and student from Canada interested in web developmen
 [![PowerShell](https://go-skill-icons.vercel.app/api/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
 [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/software/bash/)
 
-### Languages
-
-[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
-[![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.oracle.com/java)
-[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
-[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
-[![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)](https://www.php.net/)
-[![Kotlin](https://go-skill-icons.vercel.app/api/icons?i=kotlin)](https://www.kotlinlang.org/)
-[![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://rust-lang.org/)
-[![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua)](https://www.lua.org/)
-
-
 ## 📥 Contact Me
 
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kuzeybilgin@proton.me)
